@@ -1,2 +1,3 @@
 # functions
-I have processed some functions used in Python
+I have processed some functions used in Python...
+
